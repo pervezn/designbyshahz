@@ -75,3 +75,15 @@ img.resize{
 .content {
   padding-top: 160px;
 }
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 35px;
+  font-size: 35px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 35px;
+  line-height: 150%;
+}
