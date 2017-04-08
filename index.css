@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #fabfd6;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+img.resize{
+    width: 150px;
+    height: 150px;
+    float:left;
+}
+
+.links {
+  padding: 2%;
+  font-size: 110%;
+  color: white;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.links:hover {
+  color: black;
+}
