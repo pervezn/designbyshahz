@@ -19,7 +19,7 @@ body {
   width: 30px;
   position: absolute;
   right: 0;
-  padding-right: 15px;
+  padding-right: 20px;
 }
 
 .sm {
@@ -27,18 +27,9 @@ body {
   padding-bottom: 30px;
 }
 
-.instahover:hover {
-  filter: invert(100%);
-}
-
 .instafeed {
   height: 500px;
   width: 500px;
-}
-
-.instahover:hover img {
-  -webkit-filter: invert(1) !important;
-  filter: invert(100%);
 }
 
 .fb {
@@ -46,7 +37,7 @@ body {
   width: 30px;
   position: absolute;
   right: 0;
-  padding-right: 55px
+  padding-right: 60px
 }
 
 .top {
