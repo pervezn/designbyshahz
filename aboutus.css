@@ -1,0 +1,77 @@
+body {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+
+
+}
+
+.navbar {
+  background-color: #fabfd6;
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.insta {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right: 0;
+  padding-right: 20px;
+}
+
+.sm {
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.instafeed {
+  height: 500px;
+  width: 500px;
+}
+
+.fb {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right: 0;
+  padding-right: 60px
+}
+
+.top {
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+  opacity: 0.9;
+}
+
+#textdiv {
+  padding-top: 12%;
+}
+.background{
+  width: 100%;
+  boarder: 0;
+}
+img.resize{
+    width: 150px;
+    height: 150px;
+    float:left;
+}
+
+.links {
+  padding: 2%;
+  font-size: 110%;
+  color: white;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.links:hover {
+  color: black;
+}
+
+.content {
+  padding-top: 160px;
+}
