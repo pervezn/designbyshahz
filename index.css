@@ -1,3 +1,4 @@
+
 .navbar {
   background-color: #fabfd6;
   height: 150px;
@@ -5,6 +6,21 @@
   align-items: center;
 }
 
+.top {
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+  opacity: 0.8;
+}
+
+#textdiv {
+  padding-top: 12%;
+}
+.background{
+  width: 100%;
+  margin: 0;
+}
 img.resize{
     width: 150px;
     height: 150px;
