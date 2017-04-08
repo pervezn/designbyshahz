@@ -3,6 +3,8 @@ body {
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+
+
 }
 
 .navbar {
@@ -10,6 +12,41 @@ body {
   height: 150px;
   display: flex;
   align-items: center;
+}
+
+.insta {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right: 0;
+  padding-right: 15px;
+}
+
+.sm {
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.instahover:hover {
+  filter: invert(100%);
+}
+
+.instafeed {
+  height: 500px;
+  width: 500px;
+}
+
+.instahover:hover img {
+  -webkit-filter: invert(1) !important;
+  filter: invert(100%);
+}
+
+.fb {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right: 0;
+  padding-right: 55px
 }
 
 .top {
