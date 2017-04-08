@@ -27,16 +27,20 @@ body {
   padding-bottom: 30px;
 }
 
+
 .instafeed {
   height: 300px;
   width: 300px;
-  padding-top: 25px;
-  padding-left: 50px;
-  padding-bottom: 25px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto
+  display:inline-block;
+  margin: 3px;
+
+
 }
+.container {
+  text-align: center;
+  padding-bottom: 160px;
+}
+
 
 .pic1 {
   float:left;
@@ -80,4 +84,12 @@ img.resize{
 }
 .links:hover {
   color: black;
+}
+
+h1{
+  font-family:'Montserrat', sans-serif;
+  font-size:35px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 60px;
 }
